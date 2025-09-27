@@ -26,5 +26,4 @@ class Solution:
                 cur = cur.next
 
         return res
-
-            
+    
